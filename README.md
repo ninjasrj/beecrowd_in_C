@@ -1,1 +1,0 @@
-# beecrowd_in_C
